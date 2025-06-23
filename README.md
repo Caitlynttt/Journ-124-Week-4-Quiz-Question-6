@@ -14,4 +14,4 @@ This suggests that most people are understanding toward parents who fly with bab
 
 This is a chart I made related to this:
 
-![Flight Etiquette Chart](https://github.com/Caitlynttt/Journ-124-Week-4-Quiz-Question-6/blob/main/Week%204%20Question%205.png)
+![Flight Etiquette Chart](https://github.com/Caitlynttt/Journ-124-Week-4-Quiz-Question-6/blob/main/Week%204%20Question%205%20Update.png)
