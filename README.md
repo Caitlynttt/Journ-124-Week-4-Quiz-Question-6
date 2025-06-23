@@ -12,6 +12,6 @@ My Datawrapper chart illustrates:
 
 This suggests most poeople are understanding toward parents flying with babies.
 
-This is a chart I made in quiz question 5.
+This is a chart I made in quiz question 5:
 
-! [Flight Etiquette Chart] (Week 4 Question 5.png)
+![Flight Etiquette Chart](Week 4 Question 5.png)
