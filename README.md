@@ -8,7 +8,7 @@ My Datawrapper chart illustrates:
 - **592** said, "No, not at all rude."
 - **182** said, "Yes, somewhat rude."
 - **75** said, "Yes, very rude."
-- **191** did not answer.
+- I have deleted one data, because **191** did not answer it.
 
 This suggests that most people are understanding toward parents who fly with babies.
 
